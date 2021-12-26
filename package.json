@@ -1,0 +1,22 @@
+{
+  "name": "my-first-monorepo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuuy/my-first-monorepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuuy/my-first-monorepo/issues"
+  },
+  "homepage": "https://github.com/xuuy/my-first-monorepo#readme",
+  "dependencies": {
+    "@changesets/cli": "^2.19.0"
+  }
+}
